@@ -1,0 +1,30 @@
+BODY{
+    background : #f1f5fa;
+}
+TD{
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size : 11px;
+    color: #000000;
+}
+.forum{
+    color : #000080;
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+.forums{
+    color : #993300;
+    font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+.color_table{
+    BACKGROUND-COLOR: #9fbddd;
+}
+.color_td{
+    BACKGROUND-COLOR: #D4DFFF;
+}
+.color_body{
+    BACKGROUND-COLOR: #ECEEFF;
+}
+.color_body_svet{
+    BACKGROUND-COLOR: #f1f5fa;
+}
